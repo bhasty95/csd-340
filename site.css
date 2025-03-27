@@ -22,9 +22,11 @@ a: {
 /* Set anchor hover to gold */
 a:hover {
   color: #FFD700;
+  text-decoration: none;
 }
 
 /* Set anchor visited to Pale Turquoise */
 a:visited {
   color: #66CDAA;
+  text-decoration: none;
 }
