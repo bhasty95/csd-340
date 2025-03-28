@@ -1,0 +1,30 @@
+/* page barders */
+#container {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/* header tag styles */
+h1, h2, h3, h4 {
+  background-color: #4169E1;
+  color: #F0F8FF;
+  border: 1px solid #D6A800;
+  padding: 10px;
+}
+
+/* Anchor tag styling */
+a:link {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+/* Set anchor visited to Pale Turquoise */
+a:visited {
+  color: #00008B;
+}
+
+/* Set anchor hover to gold */
+a:hover {
+  color: #FFD700;
+}
