@@ -21,10 +21,10 @@ a:link {
 
 /* Set anchor visited to Pale Turquoise */
 a:visited {
-  color: navy;
+  color: #00008B;
 }
 
 /* Set anchor hover to gold */
 a:hover {
-  color: gold;
+  color: #FFD700;
 }
