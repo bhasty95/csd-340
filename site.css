@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
 }
 
 /* Anchor tag styling */
-a {
+a:link {
   color: blue;
   text-decoration: none;
 }
@@ -22,11 +22,9 @@ a {
 /* Set anchor hover to gold */
 a:hover span {
   color: gold;
-  text-decoration: none;
 }
 
 /* Set anchor visited to Pale Turquoise */
 a:visited span {
   color: navy;
-  text-decoration: none;
 }
