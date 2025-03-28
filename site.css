@@ -19,12 +19,12 @@ a:link {
   text-decoration: none;
 }
 
-/* Set anchor hover to gold */
-a:hover {
-  color: gold;
-}
-
 /* Set anchor visited to Pale Turquoise */
 a:visited {
   color: navy;
+}
+
+/* Set anchor hover to gold */
+a:hover {
+  color: gold;
 }
