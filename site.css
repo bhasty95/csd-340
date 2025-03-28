@@ -15,7 +15,7 @@ h1, h2, h3, h4 {
 
 /* Anchor tag styling */
 a:link {
-  color: blue;
+  color: #0000FF;
   text-decoration: none;
 }
 
