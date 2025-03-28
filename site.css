@@ -20,13 +20,13 @@ a {
 }
 
 /* Set anchor hover to gold */
-a:hover {
+a:hover span {
   color: gold;
   text-decoration: none;
 }
 
 /* Set anchor visited to Pale Turquoise */
-a:visited {
+a:visited span {
   color: navy;
   text-decoration: none;
 }
