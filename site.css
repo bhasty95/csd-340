@@ -14,19 +14,19 @@ h1, h2, h3, h4 {
 }
 
 /* Anchor tag styling */
-a: {
-  color: #0000CD;
+a:link {
+  color: blue;
   text-decoration: none;
 }
 
 /* Set anchor hover to gold */
 a:hover {
-  color: #FFD700;
+  color: gold;
   text-decoration: none;
 }
 
 /* Set anchor visited to Pale Turquoise */
 a:visited {
-  color: #66CDAA;
+  color: navy;
   text-decoration: none;
 }
