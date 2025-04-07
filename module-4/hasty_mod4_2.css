@@ -1,0 +1,48 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Courier New', monospace;
+}
+h1 {
+    text-align: center;
+    color: rgba(0, 0, 245, 0.85);
+}
+h3 {
+    text-align: center;
+    color: rgba(57, 57, 240, 0.85);
+}
+#image-gallery {
+    margin-top: 10px;
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr);
+}
+#left{
+    border: 1px solid blue;
+}
+#center{
+    border: 1px solid blue;
+}
+#right{
+    border: 1px solid blue;
+}
+figure {
+    text-align: center;
+}
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+    color: rgba(102, 102, 245, 0.85);
+}
+.bottom-link {
+  width: 100%;
+  margin-top: 60%;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.bottom-link a {
+  float: right;
+  text-decoration: none;
+}
+
+.bottom-link a:hover {
+  text-decoration: underline;
+}
